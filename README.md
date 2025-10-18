@@ -21,3 +21,5 @@
         width="550px"
         src="./project/screen.jpg"
         height="500"
+        />
+</p>

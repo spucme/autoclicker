@@ -1,7 +1,6 @@
-# autoclicker [![Custom Badge](https://img.shields.io/badge/SPOS-opencode-green.svg)](https://spucme.ru)
-
-[![Custom Badge](https://img.shields.io/badge/SPOS-v.1.0.1-red.svg)](https://github.com/spucme/Spucme-Bio-SPOS-v13.0-open-code-)
-[![Custom Badge](https://img.shields.io/badge/made-Spucme-purple.svg)](https://t.me/spucme)
+# autoclicker ![Custom Badge](https://img.shields.io/badge/SPOS-opencode-green.svg)
+![Custom Badge](https://img.shields.io/badge/SPOS-v.1.0.1-red.svg)
+![Custom Badge](https://img.shields.io/badge/made-Spucme-purple.svg)
 
 
 > [!IMPORTANT]
@@ -13,8 +12,10 @@
 
 <b text-align="center"> в качестве благодарности, можете отметить автора кода + подписаться на мой гитхаб (этот).</b>
 
+> # дополнительно
+> простой автокликер написаный за пару минут. надеюсь сможет чем-то помочь некоторым
 
-## фото с сайта (ПК):
+## фото проекта (ПК):
 
 <p align="center">
       <img
